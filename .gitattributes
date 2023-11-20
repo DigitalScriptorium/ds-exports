@@ -8,3 +8,4 @@
 /json/export-2023-09-11.json filter=lfs diff=lfs merge=lfs -text
 /json/export-2023-09-21.json filter=lfs diff=lfs merge=lfs -text
 /json/export-2023-09-24.json filter=lfs diff=lfs merge=lfs -text
+/json/export-2023-11-08.json filter=lfs diff=lfs merge=lfs -text
