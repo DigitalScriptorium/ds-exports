@@ -12,3 +12,5 @@
 /xml/export-2023-11-08.xml filter=lfs diff=lfs merge=binary -text
 *.xml filter=lfs diff=lfs merge=binary -text
 *.json filter=lfs diff=lfs merge=binary -text
+*.obj filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
